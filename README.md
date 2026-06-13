@@ -88,7 +88,7 @@ If you would like to improve this project, feel free to fork the repository, cre
 
 **Tanya Kiran**
 
-* Portfolio: https://portfolio-w21o.vercel.app/
+* Portfolio: https://portfolio-tanya-4i9w.vercel.app/
 * LinkedIn: https://www.linkedin.com/in/tanya-kiran-72988322b/
 * Email: [tanyakiran5@gmail.com](mailto:tanyakiran5@gmail.com)
 
